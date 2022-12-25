@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q2HukFmpXsEr2v4W14CgHnP6+MhjuuAqPHX82PfIhc68Cf+Yk4BkFT+EDm54zHXQsfm7qU3AovTYmUpWtKhTJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ybedi\\Desktop\\210601035_BedirhanSelimYeşilyurt_Odev2\\OgrenciTranskriptUygulamasi\\OgrenciTranskriptUygulamasi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ybedi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ybedi\\.nuget\\packages\\npgsql\\7.0.0\\npgsql.7.0.0.nupkg.sha512",
+    "C:\\Users\\ybedi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
